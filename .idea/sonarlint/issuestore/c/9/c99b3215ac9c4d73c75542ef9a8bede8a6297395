@@ -1,0 +1,13 @@
+
+p
+java:S5411'"(Use a primitive boolean expression here.(‚Ÿ±ãüÿÿÿÿ8Öµ“ƒø1J$55d11d7b-75a2-4e1b-80ee-0f477d2c65d9
+“
+java:S3655I"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(îñÒ‡8ëµ“ƒø1J$8484b22f-3ef8-4760-9c58-55f2ea69e95d
+~	java:S125	"<This block of commented-out lines of code should be removed.(¶ð©µ8íµ“ƒø1J$23d7b71c-8adf-486c-a206-f05fdadec19e
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8ûµ“ƒø1J$85755233-a659-466c-ad8e-343ff4836376
+ƒ	java:S125H"<This block of commented-out lines of code should be removed.(ŽÏ¬–ûÿÿÿÿ8þµ“ƒø1J$b3aa3894-c6de-4c5d-b9d8-16dea20c10e9
+~	java:S125W"<This block of commented-out lines of code should be removed.(ÃËçæ8‚¶“ƒø1J$d85a7992-affe-4201-8811-b943bf0aba01
+r
+java:S2201\"/The return value of "orElseThrow" must be used.(í»»ö8„¶“ƒø1J$1d72a0fb-4b09-41ff-90ee-b1861f297820
+d
+java:S1128"GRemove this unused import 'com.berkayg.dto.request.UserSaveRequestDto'.(¼´‰‰8Ááû´ø1

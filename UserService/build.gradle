@@ -1,0 +1,9 @@
+dependencies {
+    implementation libs.springBootDataMongo
+    implementation libs.springCloudConfigClient
+    implementation libs.springBootAmqp
+    implementation libs.springBootActuator
+    implementation libs.micrometer
+    implementation libs.opentelemetry
+    implementation libs.springBootDataRedis
+}
